@@ -12,5 +12,6 @@ Website of Via Baltic Partners (operated by Spessartia UAB). A static single-pag
 The form posts to `FORM_ENDPOINT`, a constant near the bottom of `index.html`. While it is empty, the form asks visitors to email info@viabaltic.lt instead. Set it to the form service URL (for example Formspree or Web3Forms) before launch.
 
 ## Open items
+- Remove the noindex meta tag in `index.html` and delete `robots.txt` at launch
 - Lithuanian version
 - Lawyer review of the privacy notice and disclaimer
